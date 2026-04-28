@@ -7,7 +7,7 @@
 </td>
 </tr>
 <tr>
-<td>感谢 MuskAI 赞助了本项目！MuskAI 是一个集成了 Claude Code、Codex 最新模型的一站式平台，为你提供稳定、高效且高性价比的AI编程服务。本站提供灵活的订阅计划，零封号风险，国内直连，无需魔法，极速响应。通过<a href="https://muskpay.top">此链接</a>注册！</td>
+<td>感谢 MuskAI 赞助了本项目！MuskAI 是一个集成了 Claude Code、Codex 最新模型的一站式平台，为你提供稳定、高效且高性价比的AI编程服务。本站提供灵活的订阅计划，零封号风险，国内直连，无需魔法，极速响应。通过<a href="https://muskpay.top/register?ref=2PHN9T34">此链接</a>注册！</td>
 </tr>
 </table>
 <br />
